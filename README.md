@@ -1,2 +1,2 @@
-# ControsSucursalesNode
-Parte de node del proyecto Control de sucursales
+# controlSucursalesNode
+Parte de node del proyecto de control de sucursales
